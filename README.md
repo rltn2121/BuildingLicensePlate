@@ -245,3 +245,4 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 If you've followed along well, you've made an excellent your own object detector. Congratulations!
 # BuildingLicensePlate
 # BuildingLicensePlate
+# BuildingLicensePlate
