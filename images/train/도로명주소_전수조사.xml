@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>도로명주소_전수조사.jpg</filename>
+	<path>D:\models\research\object_detection\images\train\도로명주소_전수조사.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>building_license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>37</ymin>
+			<xmax>189</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

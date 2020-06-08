@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'building_license_plate1'
+}
+
+item {
+  id: 2
+  name: 'building_license_plate2'
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>캡처.JPG</filename>
+	<path>D:\models\research\object_detection\images\train\캡처.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>482</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>building_license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>119</ymin>
+			<xmax>437</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

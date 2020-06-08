@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1345436806958.jpg</filename>
+	<path>C:\Users\Juho\tensorflow1\models\research\object_detection\images\train\1345436806958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>764</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>building_license_plate1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>149</ymin>
+			<xmax>362</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
